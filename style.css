@@ -1,0 +1,118 @@
+body{
+    color: #2b2d2f;
+    margin: 0;
+    text-align: center;
+}
+
+h1{
+    width: 200px;
+    margin: 20px auto 0 auto;
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;  
+}
+
+h2{
+    font-family: 'DM Serif Text', serif;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.top-container{
+    background-color: #9ED2C6;
+    width: 1518px;
+    height: 650px;
+    padding-top: 100px;
+    display: inline-block;
+} 
+
+.middle-container{
+    background-color: #54BAB9;
+    padding-top: 70px;  
+    width: 1518px;
+    height: 850px;
+    display: inline-block;
+}
+
+.edu{
+    float: left;
+    margin-right: 100px;
+    margin-left: 500px;
+}
+
+.list1{
+    line-height: 2;
+    text-align: left;
+    margin-top: 0;
+    margin-left: 150px;
+}
+
+.skills
+{
+    float: right;
+    margin-right: 500px;
+    margin-left: 50px;
+}
+
+.list2{
+    line-height: 2;
+    text-align: left;
+    margin-top: 20px;
+    margin-right: 150px;
+    padding-left: 500px;
+}
+
+.hobbies{
+    float: left;
+    padding-top: 20px;
+    margin-right: 150px;
+    margin-left: 500px;
+}
+
+.list3{
+    line-height: 2;
+    text-align: left;
+    margin-left: 150px;
+}
+
+
+.profile{
+    width: 200px;
+    margin: 80px auto 0 auto;
+}
+
+.middle2-container{
+    background-color: #B8E7E1;
+    padding-top: 70px;  
+    width: 1518px;
+    height: 850px;
+    display: inline-block;
+    margin:0px;
+}
+
+.bottom-container{
+    background-color: #086E7D;
+    width: 1518px;
+    height: 200px;
+}
+
+.touch{
+    margin-top: 0;
+    font-family: 'DM Serif Text', serif;
+    padding: 25px;
+    font-size: 30px;
+    width: 300px;
+}
+
+.connect{
+    padding-top: 25px;
+}
+
+.a{
+    color: #2b2d2f;
+}
